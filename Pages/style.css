@@ -43,7 +43,7 @@ body{
 .container-login form{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 12px;
     color: rgb(34, 9, 57);
 }
 
@@ -59,4 +59,13 @@ body{
 #botao:hover{
     background-color: aliceblue;
     color:rgb(34, 9, 57);
+}
+
+.lembrarme{
+    
+}
+
+.Icons{
+    background-color: white;
+    border-radius: 15px;
 }
